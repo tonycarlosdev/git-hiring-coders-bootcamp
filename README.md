@@ -1,0 +1,1 @@
+O curso está me ajudando muito na compreensão da importância e utilização do Git e Github para a comunidade de Desenvolvedores e Programadores. 
